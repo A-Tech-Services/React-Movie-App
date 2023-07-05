@@ -6,7 +6,7 @@ import MovieCard from './MovieCard';
 
 // declaring a public variable which connect to the omdbapi server 
 // with my api key
-const API_URL = 'http://www.omdbapi.com?apikey=9703997b'
+const API_URL = 'https://www.omdbapi.com?apikey=9703997b'
 
 
 
